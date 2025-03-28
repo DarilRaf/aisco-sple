@@ -8,19 +8,17 @@ import aisco.donation.DonationFactory;
 import aisco.donation.core.Donation;
 
 public class HopeBridge {
-	private static Program operationalProgram;
-	private static FinancialReport financialreportFinancialReport;
-	private static FinancialReport incomeFinancialReport;
-	private static FinancialReport expenseFinancialReport;
-	private static Donation donationDonation;
-	private static Donation donationDonation;
+    private static Program operationalProgram;
+    private static FinancialReport financialreportFinancialReport;
+    private static FinancialReport incomeFinancialReport;
+    private static FinancialReport expenseFinancialReport;
+    private static Donation donationDonation;
 
-    public static void main(String[] args) {    	
+    public static void main(String[] args) {
         // TODO: Create necessary feature objects for the program
         // TODO: Implement the main logic of the program
         // TODO: Handle input and output if needed
         // TODO: Add exception handling if necessary
-        
-        
+
     }
 }
